@@ -1,4 +1,4 @@
-Intro to Machine Learning Udacity
+Explorations in Machine Learning
 ==============
 
-My solutions to quizzes, exercises, and projects Udacity's Intro to Machine Learning course
+Exploring Machine Learning. Just some early efforts.
